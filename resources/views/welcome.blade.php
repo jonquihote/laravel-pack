@@ -10,7 +10,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body class="bg-black antialiased">
+<body class="antialiased">
     <main class="flex h-screen w-full items-center justify-center">
 
         <figure class="mx-auto max-w-screen-md text-center">
