@@ -22,8 +22,8 @@
             </svg>
             <blockquote>
                 <p class="text-2xl font-medium italic text-gray-900 dark:text-white">"Flowbite is just awesome. It
-                    contains tons of predesigned components and pages starting from login screen to complex dashboard.
-                    Perfect choice for your next SaaS application."</p>
+                    contains tons of predesigned components and pages starting from login screen to complicated
+                    dashboard. Perfect choice for your next SaaS application."</p>
             </blockquote>
             <figcaption class="mt-6 flex items-center justify-center space-x-3">
                 <img class="h-6 w-6 rounded-full"
